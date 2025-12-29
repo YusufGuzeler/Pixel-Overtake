@@ -13,6 +13,6 @@ Bu proje, Python ve Pygame kütüphanesi kullanılarak geliştirilmiş, Nesne Y�
 - **Kütüphane:** Pygame
 - **Konseptler:** OOP, Nesne Maskeleme, Oyun Durumu Yönetimi
 
-## 🎮 Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 1. Gerekli kütüphaneyi kurun: `pip install pygame`
 2. Oyunu başlatın: `python main.py`
